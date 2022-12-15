@@ -1,5 +1,6 @@
 body{
 	background:lavender ;
+	margin: o;
 }
 
 .header{
@@ -8,6 +9,10 @@ body{
 	color: brown;
 	padding: 44px;
 
+}
+.header h2{
+	color: whitesmoke;
+	font-family: 'arial';
 }
 
 .images{
