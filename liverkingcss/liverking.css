@@ -1,0 +1,35 @@
+body{
+	background:lavender ;
+}
+
+.header{
+	background: paleturquoise;
+	font-display: !important;
+	color: brown;
+	padding: 44px;
+
+}
+
+.images{
+	padding: 1px;
+	height: 25%;
+	width: 100%;
+}
+.body_1{
+	background: lightgoldenrodyellow;
+	height:25%;
+	width: 100%;
+	font-display: inherit;
+
+}
+.body_2{
+	background: indianred;
+	
+}
+.lastbody{
+	background: blueviolet;
+}
+footer{
+	background: rosybrown;
+
+}
